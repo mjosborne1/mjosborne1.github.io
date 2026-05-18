@@ -1,34 +1,13 @@
-## Welcome to Michael's Pages
+## Welcome to Michael's Websites
 
+Here's a summary of the github pages hosted under `mjosborne1.github.io` and my `onrender.com` sites.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mjosborne1/mjosborne1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| Website URL | Website purpose | Repository URL |
+|-------------|-----------------|----------------|
+|[au-fhir-registry](https://mjosborne1.github.io/au-fhir-registry) | FHIR IG for HL7 AU Namespaces | https://github.com/mjosborne1/au-fhir-registry |
+|[ecl-tester](https://ecl-tester.onrender.com) | SNOMED CT Expression constraint language (ECL) Library | https://github.com/mjosborne1/ecl_expressions |
+|[fhir ig demo](https://fhir-osbornemj-com.onrender.com) | PUBLIC demo FHIR IG for QA testing and debugging | https://fhir-osbornemj-com.onrender.com |
+|[ncts-vs-diff](https://mjosborne1.github.io/ncts-vs-diff) | NCTS ValueSet Quality Check| https://github.com/mjosborne1/ncts-vs-diff |
+|[Patient-Dashboard](https://github.com/mjosborne1/Patient-Dashboard) | Demo application - Patient Summary and eRequesting | https://patient-dashboard-t065.onrender.com |
+|[selector](https://mjosborne1.github.io/selector) | Placeholder for a selector website for Lawn bowls selections (T.B.A) | https://github.com/mjosborne1/selector |
+|[trove](https://mjosborne1.github.io/trove/) | A collection of links to resources for FHIR Terminology servers | https://github.com/mjosborne1/trove |
